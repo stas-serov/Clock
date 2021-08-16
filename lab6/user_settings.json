@@ -1,0 +1,34 @@
+{
+  "clock_color": {
+    "knownColor": 0,
+    "name": null,
+    "state": 2,
+    "value": 4294934592
+  },
+  "clock_size": 2,
+  "clock_type": true,
+  "digits_color": {
+    "knownColor": 0,
+    "name": null,
+    "state": 2,
+    "value": 4282384512
+  },
+  "hour_color": {
+    "knownColor": 108,
+    "name": null,
+    "state": 1,
+    "value": 0
+  },
+  "min_color": {
+    "knownColor": 0,
+    "name": null,
+    "state": 2,
+    "value": 4282417280
+  },
+  "sec_color": {
+    "knownColor": 108,
+    "name": null,
+    "state": 1,
+    "value": 0
+  }
+}
